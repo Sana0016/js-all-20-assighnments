@@ -57,24 +57,24 @@
 // =============Question_05===================//
 
 
-// var userInput_1 = prompt("enter any subjects");
-// // var userInput_2 = prompt("enter any subjects");
-// // var userInput_3 = prompt("enter any subjects");
-// var sub01 = userInput_1;
-// // var sub02 = userInput_2;
-// // var sub03 = userInput_3;
-// var total_marks = 100;
-// var mark01 = prompt("enter your marks");
-// var obtained_marks01 = mark;
+var userInput_1 = prompt("enter any subjects");
+var userInput_2 = prompt("enter any subjects");
+var userInput_3 = prompt("enter any subjects");
+var sub01 = userInput_1;
+var sub02 = userInput_2;
+var sub03 = userInput_3;
+var total_marks = 100;
+var mark01 = prompt("enter your marks");
 
-// // var mark02 = prompt("enter your marks");
-// // var obtained_marks02 = mark02;
+var obtained_marks01 = marks;
 
-// // var mark03 = prompt("enter your marks");
-// // var obtained_marks01 = mark03;
-// document.write(`Subject   Total marks  Obtained marks  Percentage`);
-// document.write(`English` + " " + (total_marks) + " " +(total_marks - obtained_marks01) + " " + (mark01/total_marks*100))
+var mark02 = prompt("enter your marks");
+var obtained_marks02 = mark02;
 
+var mark03 = prompt("enter your marks");
+var obtained_marks01 = mark03;
+document.write(`Subject   Total marks  Obtained marks  Percentage`);
+document.write(`English` + " " + (total_marks) + " " +(total_marks - obtained_marks01) + " " + (mark01/total_marks*100))
 
 
 
